@@ -1,6 +1,7 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/bacek97/s21_decimal)
 ![GitHub repo size](https://img.shields.io/github/repo-size/bacek97/s21_decimal)
 # Реализация собственной библиотеки s21_decimal.h
+[Демонстрация](https://replit.com/@bacek97/liliammodecimal)
 ### Операторы сравнение
 
 | Название оператора | Оператор  | Функция | 
